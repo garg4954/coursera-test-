@@ -1,0 +1,57 @@
+#header-nav {
+  background-color: grey;
+  border-radius: 0;
+  border: 2px solid black;
+}
+
+.navbar-brand{
+  margin-top: 0;
+}
+
+.navbar-brand h1 {
+  margin-top: 0;
+  color: black;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list {
+  margin-top: 0px;
+  background-color: white;
+}
+#nav-list a {
+  border: 2px solid black;
+  color: black;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: grey;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+ .navbar-header button.navbar-toggle
+ {
+  clear: both;
+ }
+ 
+#top-heading{
+  font-weight: bold;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+#main-section{
+  background-color: grey;
+  padding: 10px;
+  margin-top: 50px;
+}
+
+#sub-heading
+{
+  font-weight: bold;
+}
